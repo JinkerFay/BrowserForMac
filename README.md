@@ -1,2 +1,2 @@
-# JKTOWN
-技术小镇
+# TechTown
+科技小镇
